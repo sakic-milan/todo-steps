@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,eAAgB,CAChB,kBACF,CAEA,YACE,aAAc,CACd,+CACF","file":"main.763be2eb.chunk.css","sourcesContent":[".customhr {\n  margin-top: 12px;\n  margin-bottom: 22px;\n}\n\n.stageTitle {\n  color: #10213b;\n  font-family: Georgia, \"Times New Roman\", Times, serif;\n}\n"]}
